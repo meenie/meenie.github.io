@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "meenie",
-    "repositoryName": "meenie.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"meenie","repositoryName":"meenie.github.io","branch":"master","cname":"cody.engineer"},"site":{"url":"http://cody.engineer"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://meenie.github.io/themes/Casper"}}
